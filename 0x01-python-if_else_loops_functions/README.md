@@ -1,0 +1,1 @@
+In python programming, we check for conditional statements using if, elif and else. We work with control statements where loops iterate repeatedly over a block of code and write functions which help a programmer to reuse a set of instructions performing specific tasks. In this tutorial, we will cover each of the above with examples. <Happy coding dude>
