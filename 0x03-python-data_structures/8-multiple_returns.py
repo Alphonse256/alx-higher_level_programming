@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#multiple_returns - Returns len of str and first character
+# multiple_returns - Returns len of str and first character
 
 def multiple_returns(sentence):
     if sentence == '':
