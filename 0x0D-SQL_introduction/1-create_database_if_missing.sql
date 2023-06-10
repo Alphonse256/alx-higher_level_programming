@@ -1,2 +1,2 @@
--- Script to create Database
-CREATE DATABASE hbtn_0c_0
+-- Script to create Database in mysql
+CREATE DATABASE IF NOT EXISTS `hbtn_0c_0`
