@@ -1,4 +1,4 @@
 #!/usr/bin/node
-for (let string in ['C is fun', 'Python is cool', '"JavaScript is amazing']) {
+for (let string of ['C is fun', 'Python is cool', 'JavaScript is amazing']) {
   console.log(string);
 }
