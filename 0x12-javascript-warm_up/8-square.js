@@ -7,4 +7,4 @@ if (isNaN(size)) {
     for (i = 0; i < size; i++) {
       console.log(x.repeat(size));
     }
-}
+  }
