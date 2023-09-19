@@ -1,1 +1,1 @@
-Understanding Classes an Objects in Python Programming.
+Understanding Classes and Objects in Python Programming.
